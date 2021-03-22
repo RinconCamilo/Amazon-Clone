@@ -6,3 +6,5 @@ This is an Amazon clone that utilizes firebase for:
 3. Cart and Checkout Page
 
 This Amazon clone also utilizes Stripe in order to process payments
+ 
+ ** Visit master branch to view code **
